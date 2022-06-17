@@ -1,0 +1,10 @@
+Package: com.freemenu.r1ncoe
+Name: Standoff 2 Mod Menu
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Standoff 2 Mod Menu by YOURNAME!
+Maintainer: YOURNAME
+Author: YOURNAME
+Section: Tweaks
+Homepage: YOURSITE
